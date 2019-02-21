@@ -10,10 +10,6 @@ The paper authors torch implementation: https://github.com/ramprs/grad-cam
 
 This code assumes Tensorflow dimension ordering, and uses the VGG16 network in keras.applications by default (the network weights will be downloaded on first use).
 
-
-Usage: `python grad-cam.py <path_to_image>`
-
-
 ##### Examples
 
 'boxer' 
